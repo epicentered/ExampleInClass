@@ -56,4 +56,5 @@ logtransformed<-function(NumericVector=NULL){
 
 }
 
-
+# adding a comment
+# just for fun
